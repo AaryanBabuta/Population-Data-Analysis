@@ -1,5 +1,5 @@
 # Population Data Analysis on Dataset By World Bank
-# 🌍 World Bank Global Population Analysis (1960–2022)
+## 🌍 World Bank Global Population Analysis (1960–2022)
 
 ## 📌 About
 This project analyzes **global population trends** from **1960 to 2022** using official **World Bank** data.  
